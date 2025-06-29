@@ -2,3 +2,5 @@
 node_modules/
 __pycache__/
 .env
+node_modules/
+*.log
